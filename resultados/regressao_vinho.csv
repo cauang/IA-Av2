@@ -1,0 +1,4 @@
+modelo,R² media,R² desvio,R² ajustado media,R² ajustado desvio,MAE media,MAE desvio,RMSE media,RMSE desvio,Tempo Treino (s) media,Tempo Treino (s) desvio,Tempo Teste (s) media,Tempo Teste (s) desvio
+kNN (Euclidiana),0.358401,0.026318,0.352919,0.026540,0.526148,0.011174,0.699034,0.014274,0.000001,0.000000,0.258806,0.007058
+kNN (Manhattan),0.358783,0.026291,0.353305,0.026514,0.521746,0.016287,0.698816,0.013882,0.000002,0.000001,0.390087,0.023753
+Regressão Linear Múltipla,0.288886,0.027294,0.282810,0.027526,0.569646,0.008657,0.736002,0.017526,0.000895,0.000341,0.000072,0.000012

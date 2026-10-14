@@ -1,0 +1,4 @@
+modelo,Acurácia media,Acurácia desvio,Precisão media,Precisão desvio,Recall media,Recall desvio,F1-Score media,F1-Score desvio,Tempo Treino (s) media,Tempo Treino (s) desvio,Tempo Teste (s) media,Tempo Teste (s) desvio
+kNN (Euclidiana),0.755000,0.031623,0.717298,0.052054,0.648810,0.040616,0.660996,0.046617,0.000031,0.000006,0.005606,0.000496
+kNN (Manhattan),0.742000,0.019235,0.694742,0.031781,0.633810,0.024824,0.643872,0.028327,0.000034,0.000009,0.017691,0.000394
+Bayesiano (Univariado),0.744000,0.011937,0.696913,0.010814,0.696190,0.004717,0.695551,0.005024,0.000481,0.000051,0.000241,0.000019

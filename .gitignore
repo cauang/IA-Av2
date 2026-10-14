@@ -1,0 +1,17 @@
+# apresentação e material de apoio
+slides/
+Slides_IA_AV2.pptx
+Material_de_Estudo_IA_AV2.pdf
+
+# gerados / dependências
+__pycache__/
+*.pyc
+node_modules/
+resultados/figuras/
+.venv/
+
+# editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
